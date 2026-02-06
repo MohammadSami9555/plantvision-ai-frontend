@@ -33,22 +33,24 @@ Build Tool: Vite
 
 📂 Project Structure
 
-src/
-│── components/
-│   ├── Navbar.jsx
-│   ├── Home.jsx
-│   ├── About.jsx
-│   ├── Upload.jsx
-│   ├── Prompt.jsx
-│   ├── Analysis.jsx
-│   └── HowItWorks.jsx
+src
+├─ components
+│  ├─ Navbar.jsx
+│  ├─ Home.jsx
+│  ├─ About.jsx
+│  ├─ Upload.jsx
+│  ├─ Prompt.jsx
+│  ├─ Analysis.jsx
+│  └─ HowItWorks.jsx
 │
-│── assets/
-│   └── hero-plant.jpg
+├─ assets
+│  └─ hero-plant.jpg
 │
-│── App.jsx
-│── index.css
-│── main.jsx
+├─ App.jsx
+├─ main.jsx
+└─ index.css
+
+
 
 
 🧠 How It Works
