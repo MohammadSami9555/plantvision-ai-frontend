@@ -31,27 +31,6 @@ Scrolling & DOM: Native DOM methods (scrollIntoView)
 
 Build Tool: Vite
 
-📂 Project Structure
-
-src
-├─ components
-│  ├─ Navbar.jsx
-│  ├─ Home.jsx
-│  ├─ About.jsx
-│  ├─ Upload.jsx
-│  ├─ Prompt.jsx
-│  ├─ Analysis.jsx
-│  └─ HowItWorks.jsx
-│
-├─ assets
-│  └─ hero-plant.jpg
-│
-├─ App.jsx
-├─ main.jsx
-└─ index.css
-
-
-
 
 🧠 How It Works
 
@@ -100,3 +79,34 @@ npm run dev
 Open browser and visit:
 
 http://localhost:5173
+
+
+📂 Project Structure
+
+```text
+
+plantvision-ai-frontend/
+├─ public/
+├─ src/
+│  ├─ components/
+│  │  ├─ Navbar.jsx
+│  │  ├─ Home.jsx
+│  │  ├─ About.jsx
+│  │  ├─ Upload.jsx
+│  │  ├─ Prompt.jsx
+│  │  ├─ Analysis.jsx
+│  │  └─ HowItWorks.jsx
+│  │
+│  ├─ assets/
+│  │  └─ hero-plant.jpg
+│  │
+│  ├─ App.jsx
+│  ├─ main.jsx
+│  └─ index.css
+│
+├─ index.html
+├─ package.json
+├─ vite.config.js
+└─ README.md
+
+
